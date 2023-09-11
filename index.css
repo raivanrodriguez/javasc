@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(248, 249, 250);
+    padding: 5%;
+    }
+    img.dos{
+    height: 100px; width: auto;
+    
+    }
+    img.uno{
+    height: 200px;width: auto;
+    
+    
+    
+    }
+    p{
+      color: darkcyan;
+    }
+    .warning{
+    width: auto;
+    text-align: center;
+    
+    color: red;
+    padding: 5px;
+    
+
+    }
